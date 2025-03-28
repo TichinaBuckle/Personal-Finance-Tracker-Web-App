@@ -31,6 +31,7 @@ Create a comprehensive visual analytics solution to track personal spending patt
 
 ### Version 2 (Tableau Dashboard)
 ![Version 2 Dashboard Image](README/dashboard.png)
+- **Dashboard:** [View Tableau Public Dashboard](https://public.tableau.com/views/PersonalAccountsDashboard/PersonalAccountsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Challenge:** Create a comprehensive visual analytics solution for personal finance
 - **Approach:** 
   - Designed a structured data collection system using Google Forms for consistent daily financial tracking
