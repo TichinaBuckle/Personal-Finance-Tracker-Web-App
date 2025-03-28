@@ -21,8 +21,7 @@ Create a comprehensive visual analytics solution to track personal spending patt
 - **Challenge:** Develop a basic system for consistent financial tracking
 - **Approach:** 
   - Manually created spreadsheet for recording financial transactions
-  - Limited visibility into spending patterns
-  - Basic categorization of expenses
+  - No visibility into spending patterns
 - **Limitations:**
   - Time-consuming manual data entry
   - Difficult to generate meaningful insights
